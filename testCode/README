@@ -1,0 +1,14 @@
+/****************************************/
+/*
+ * Author: Tuan Truong
+ * This is test code to test communication between 
+ * and arduino board (in this case I used an Edison
+ * arduino board) and the SuperPro board.
+ * The Arduino sample a sonar sensor I had laying 
+ * around and converted the byte of data to a string of
+ * binary 0s and 1s which was then wrote to 8 pins.
+ * 
+ * TODO:
+ * updated code to work with I2C sensor
+ */
+/****************************************/
